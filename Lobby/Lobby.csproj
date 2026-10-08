@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\Protocol\Protocol.csproj" />
+    <ProjectReference Include="..\Data\Data.csproj" />
+    <ProjectReference Include="..\GameLogic\GameLogic.csproj" />
+    <ProjectReference Include="..\Battle\Battle.csproj" />
+  </ItemGroup>
+</Project>
