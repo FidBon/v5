@@ -1,0 +1,11 @@
+C:\Users\FidBon\Desktop\ObiadSharp\Protocol\bin\Debug\net8.0\Protocol.deps.json
+C:\Users\FidBon\Desktop\ObiadSharp\Protocol\bin\Debug\net8.0\Protocol.dll
+C:\Users\FidBon\Desktop\ObiadSharp\Protocol\bin\Debug\net8.0\Protocol.pdb
+C:\Users\FidBon\Desktop\ObiadSharp\Protocol\obj\Debug\net8.0\Protocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FidBon\Desktop\ObiadSharp\Protocol\obj\Debug\net8.0\Protocol.AssemblyInfoInputs.cache
+C:\Users\FidBon\Desktop\ObiadSharp\Protocol\obj\Debug\net8.0\Protocol.AssemblyInfo.cs
+C:\Users\FidBon\Desktop\ObiadSharp\Protocol\obj\Debug\net8.0\Protocol.csproj.CoreCompileInputs.cache
+C:\Users\FidBon\Desktop\ObiadSharp\Protocol\obj\Debug\net8.0\Protocol.dll
+C:\Users\FidBon\Desktop\ObiadSharp\Protocol\obj\Debug\net8.0\refint\Protocol.dll
+C:\Users\FidBon\Desktop\ObiadSharp\Protocol\obj\Debug\net8.0\Protocol.pdb
+C:\Users\FidBon\Desktop\ObiadSharp\Protocol\obj\Debug\net8.0\ref\Protocol.dll
