@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Patcher/Patcher.csproj" />
+  <Project Path="Battle/Battle.csproj" />
+  <Project Path="Data/Data.csproj" />
+  <Project Path="GameLogic/GameLogic.csproj" />
+  <Project Path="Lobby/Lobby.csproj" />
+  <Project Path="Protocol/Protocol.csproj" />
+  <Project Path="Server/Server.csproj" />
+</Solution>

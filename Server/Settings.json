@@ -1,0 +1,20 @@
+{
+  "Address": "0.0.0.0",
+  "Port": 8888,
+  "RC4Key": "fhsd6f86f67rt8fw78fw789we78r9789wer6re",
+  "usedCryptography": "RC4",
+  "MaximumRank": 20,
+  "MaximumUpgradeLevel": 5,
+  "startingTutorialState": 2,
+  "seasonEndBonus": 0,
+  "nextSeasonEndTimestamp": 0,
+  "ticketsPrice": 1,
+  "gameAssetsServer": true,
+  "gameAssetsAddress": "0.0.0.0",
+  "gameAssetsPort": 9999,
+  "UseUDPServer": false,
+  "UDPAddress": "0.0.0.0",
+  "UDPPort": 6666,
+  "databasePath": "Database/obiad.db",
+  "assetsRoot": "Assets"
+}

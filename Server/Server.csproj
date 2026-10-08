@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>ObiadServer</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Protocol\Protocol.csproj" />
+    <ProjectReference Include="..\Data\Data.csproj" />
+    <ProjectReference Include="..\GameLogic\GameLogic.csproj" />
+    <ProjectReference Include="..\Lobby\Lobby.csproj" />
+    <ProjectReference Include="..\Battle\Battle.csproj" />
+    <ProjectReference Include="..\Patcher\Patcher.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Settings.json" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="..\Assets\**\*"
+          Link="Assets\%(RecursiveDir)%(Filename)%(Extension)"
+          CopyToOutputDirectory="PreserveNewest" />
+    <None Include="..\Assets\csv_logic\*.csv"
+          Link="Patcher\Content\csv_logic\%(Filename)%(Extension)"
+          CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>
