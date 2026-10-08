@@ -1,0 +1,12 @@
+C:\Users\FidBon\Desktop\ObiadSharp\Patcher\obj\Debug\net8.0\Patcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FidBon\Desktop\ObiadSharp\Patcher\obj\Debug\net8.0\Patcher.AssemblyInfoInputs.cache
+C:\Users\FidBon\Desktop\ObiadSharp\Patcher\obj\Debug\net8.0\Patcher.AssemblyInfo.cs
+C:\Users\FidBon\Desktop\ObiadSharp\Patcher\obj\Debug\net8.0\Patcher.csproj.CoreCompileInputs.cache
+C:\Users\FidBon\Desktop\ObiadSharp\Patcher\bin\Debug\net8.0\Patcher\base-fingerprint.json
+C:\Users\FidBon\Desktop\ObiadSharp\Patcher\bin\Debug\net8.0\Patcher.deps.json
+C:\Users\FidBon\Desktop\ObiadSharp\Patcher\bin\Debug\net8.0\Patcher.dll
+C:\Users\FidBon\Desktop\ObiadSharp\Patcher\bin\Debug\net8.0\Patcher.pdb
+C:\Users\FidBon\Desktop\ObiadSharp\Patcher\obj\Debug\net8.0\Patcher.dll
+C:\Users\FidBon\Desktop\ObiadSharp\Patcher\obj\Debug\net8.0\refint\Patcher.dll
+C:\Users\FidBon\Desktop\ObiadSharp\Patcher\obj\Debug\net8.0\Patcher.pdb
+C:\Users\FidBon\Desktop\ObiadSharp\Patcher\obj\Debug\net8.0\ref\Patcher.dll

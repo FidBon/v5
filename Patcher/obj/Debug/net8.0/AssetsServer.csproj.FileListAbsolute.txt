@@ -1,0 +1,11 @@
+C:\Users\FidBon\Desktop\ObiadSharp\AssetsServer\bin\Debug\net8.0\AssetsServer.deps.json
+C:\Users\FidBon\Desktop\ObiadSharp\AssetsServer\bin\Debug\net8.0\AssetsServer.dll
+C:\Users\FidBon\Desktop\ObiadSharp\AssetsServer\bin\Debug\net8.0\AssetsServer.pdb
+C:\Users\FidBon\Desktop\ObiadSharp\AssetsServer\obj\Debug\net8.0\AssetsServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FidBon\Desktop\ObiadSharp\AssetsServer\obj\Debug\net8.0\AssetsServer.AssemblyInfoInputs.cache
+C:\Users\FidBon\Desktop\ObiadSharp\AssetsServer\obj\Debug\net8.0\AssetsServer.AssemblyInfo.cs
+C:\Users\FidBon\Desktop\ObiadSharp\AssetsServer\obj\Debug\net8.0\AssetsServer.csproj.CoreCompileInputs.cache
+C:\Users\FidBon\Desktop\ObiadSharp\AssetsServer\obj\Debug\net8.0\AssetsServer.dll
+C:\Users\FidBon\Desktop\ObiadSharp\AssetsServer\obj\Debug\net8.0\refint\AssetsServer.dll
+C:\Users\FidBon\Desktop\ObiadSharp\AssetsServer\obj\Debug\net8.0\AssetsServer.pdb
+C:\Users\FidBon\Desktop\ObiadSharp\AssetsServer\obj\Debug\net8.0\ref\AssetsServer.dll
